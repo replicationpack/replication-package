@@ -1,0 +1,22 @@
+{
+  "name": "ptg-coverage-testing",
+  "version": "1.0.0",
+  "description": "PTG-guided vs Random testing with NYC coverage collection",
+  "main": "coverage-test.js",
+  "scripts": {
+    "test": "node coverage-test.js"
+  },
+  "keywords": [
+    "playwright",
+    "testing",
+    "ptg",
+    "vue",
+    "coverage",
+    "nyc"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "playwright": "^1.40.0"
+  }
+}
